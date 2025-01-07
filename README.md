@@ -11,4 +11,4 @@ Para incorporar esse script no Power BI, basta colá-lo em:
 
 Página Inicial -> Obert dados -> Mais... -> Script em Python
 
-Após essas etapas, basta clicar em Atualizar no Power BI, e os novos dados serão automaticamente integrados aos visuais!
+Após essas etapas, basta clicar em Atualizar no Power BI, e os novos dados serão automaticamente integrados aos visuais, conforme o [Link](https://youtu.be/J3HarLFo7Aw)
